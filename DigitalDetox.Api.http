@@ -1,0 +1,6 @@
+@DigitalDetox.Api_HostAddress = http://localhost:5003
+
+GET {{DigitalDetox.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

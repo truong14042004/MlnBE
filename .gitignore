@@ -1,0 +1,11 @@
+bin/
+obj/
+appsettings.Development.json
+*.user
+*.userosscache
+*.sln.docstates
+*.db
+*.db-shm
+*.db-wal
+.vscode/
+.idea/
