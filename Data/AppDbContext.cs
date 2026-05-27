@@ -1,5 +1,6 @@
 using DigitalDetox.Api.Models;
 using Microsoft.EntityFrameworkCore;
+using MongoDB.EntityFrameworkCore.Extensions;
 
 namespace DigitalDetox.Api.Data;
 
@@ -12,15 +13,9 @@ public class AppDbContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<ScreenTimeLog>(e =>
-        {
-            e.HasIndex(x => new { x.UserId, x.Day });
-            e.HasIndex(x => x.Website);
-        });
+        base.OnModelCreating(modelBuilder);
 
-        modelBuilder.Entity<User>(e =>
-        {
-            e.HasIndex(x => x.Username).IsUnique();
-        });
+        modelBuilder.Entity<ScreenTimeLog>().ToCollection("ScreenTimeLogs");
+        modelBuilder.Entity<User>().ToCollection("Users");
     }
 }
