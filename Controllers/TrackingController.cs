@@ -2,6 +2,7 @@ using DigitalDetox.Api.Data;
 using DigitalDetox.Api.Dtos;
 using DigitalDetox.Api.Models;
 using DigitalDetox.Api.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -9,6 +10,7 @@ namespace DigitalDetox.Api.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
+[Authorize]
 public class TrackingController : ControllerBase
 {
     private readonly AppDbContext _context;

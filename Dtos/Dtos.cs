@@ -15,3 +15,14 @@ public record SummaryDto(
     List<DailyTotalDto> Daily,
     List<string> Recommendations
 );
+
+public record ChallengeItemDto(string Id, string Metric, int Target);
+
+public record UserSettingsDto(
+    int YouTubeLimit,
+    int FacebookLimit,
+    int TikTokLimit,
+    int StreakCount,
+    string LastCompletedDay,
+    List<ChallengeItemDto> Challenges
+);

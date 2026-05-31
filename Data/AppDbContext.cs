@@ -10,6 +10,7 @@ public class AppDbContext : DbContext
 
     public DbSet<ScreenTimeLog> ScreenTimeLogs => Set<ScreenTimeLog>();
     public DbSet<User> Users => Set<User>();
+    public DbSet<UserSettings> UserSettings => Set<UserSettings>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -17,5 +18,7 @@ public class AppDbContext : DbContext
 
         modelBuilder.Entity<ScreenTimeLog>().ToCollection("ScreenTimeLogs");
         modelBuilder.Entity<User>().ToCollection("Users");
+        modelBuilder.Entity<UserSettings>().ToCollection("UserSettings");
+        modelBuilder.Entity<UserSettings>().OwnsMany(e => e.Challenges);
     }
 }
