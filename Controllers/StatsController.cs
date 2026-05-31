@@ -14,10 +14,9 @@ public class StatsController : ControllerBase
     public StatsController(AppDbContext context) => _context = context;
 
     [HttpGet("summary")]
-    public async Task<ActionResult<SummaryDto>> Summary(
-        [FromQuery] string userId = "anon",
-        [FromQuery] int days = 7)
+    public async Task<ActionResult<SummaryDto>> Summary([FromQuery] int days = 7)
     {
+        var userId = User.ResolveUserId();
         var cutoff = DateTime.UtcNow.AddDays(-days);
         var logs = await _context.ScreenTimeLogs
             .Where(l => l.UserId == userId && l.CreatedAt >= cutoff)

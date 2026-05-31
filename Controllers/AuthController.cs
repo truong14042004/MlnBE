@@ -1,7 +1,9 @@
 using DigitalDetox.Api.Data;
 using DigitalDetox.Api.Models;
+using DigitalDetox.Api.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.RateLimiting;
 using Microsoft.EntityFrameworkCore;
 using System.ComponentModel.DataAnnotations;
 
@@ -9,14 +11,17 @@ namespace DigitalDetox.Api.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
+[EnableRateLimiting("auth")]
 public class AuthController : ControllerBase
 {
     private readonly AppDbContext _context;
     private readonly PasswordHasher<string> _passwordHasher;
+    private readonly TokenService _tokenService;
 
-    public AuthController(AppDbContext context)
+    public AuthController(AppDbContext context, TokenService tokenService)
     {
         _context = context;
+        _tokenService = tokenService;
         _passwordHasher = new PasswordHasher<string>();
     }
 
@@ -52,6 +57,7 @@ public class AuthController : ControllerBase
             userId = user.Id.ToString(),
             username = user.Username,
             fullName = user.FullName,
+            token = _tokenService.CreateToken(user.Id.ToString(), user.Username),
             message = "Đăng ký thành công!"
         });
     }
@@ -83,6 +89,7 @@ public class AuthController : ControllerBase
             userId = user.Id.ToString(),
             username = user.Username,
             fullName = user.FullName,
+            token = _tokenService.CreateToken(user.Id.ToString(), user.Username),
             message = "Đăng nhập thành công!"
         });
     }

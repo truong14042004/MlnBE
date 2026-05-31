@@ -1,6 +1,7 @@
 using DigitalDetox.Api.Data;
 using DigitalDetox.Api.Dtos;
 using DigitalDetox.Api.Models;
+using DigitalDetox.Api.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -22,6 +23,7 @@ public class TrackingController : ControllerBase
         if (string.IsNullOrWhiteSpace(model.Day))
             model.Day = DateTime.UtcNow.ToString("yyyy-MM-dd");
         model.Id = Guid.NewGuid();
+        model.UserId = User.ResolveUserId();
         model.CreatedAt = DateTime.UtcNow;
         _context.ScreenTimeLogs.Add(model);
         await _context.SaveChangesAsync();
@@ -33,13 +35,14 @@ public class TrackingController : ControllerBase
     public async Task<IActionResult> SaveBatch([FromBody] TrackingBatchDto batch)
     {
         if (batch.Entries == null || batch.Entries.Count == 0) return Ok(new { saved = 0 });
+        var userId = User.ResolveUserId();
         var now = DateTime.UtcNow;
         var rows = batch.Entries
             .Where(e => !string.IsNullOrWhiteSpace(e.Website) && e.DurationSeconds > 0)
             .Select(e => new ScreenTimeLog
             {
                 Id = Guid.NewGuid(),
-                UserId = string.IsNullOrWhiteSpace(batch.UserId) ? "anon" : batch.UserId,
+                UserId = userId,
                 Website = e.Website,
                 DurationSeconds = e.DurationSeconds,
                 Day = string.IsNullOrWhiteSpace(batch.Day) ? now.ToString("yyyy-MM-dd") : batch.Day,
@@ -54,8 +57,9 @@ public class TrackingController : ControllerBase
 
     /// <summary>Raw logs for advanced views.</summary>
     [HttpGet]
-    public async Task<IActionResult> Get([FromQuery] string userId = "anon", [FromQuery] int days = 7)
+    public async Task<IActionResult> Get([FromQuery] int days = 7)
     {
+        var userId = User.ResolveUserId();
         var cutoff = DateTime.UtcNow.AddDays(-days);
         var logs = await _context.ScreenTimeLogs
             .Where(l => l.UserId == userId && l.CreatedAt >= cutoff)
