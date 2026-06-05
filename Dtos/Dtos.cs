@@ -26,3 +26,5 @@ public record UserSettingsDto(
     string LastCompletedDay,
     List<ChallengeItemDto> Challenges
 );
+
+public record QuizQuestionDto(string Id, string Question, List<string> Options, int AnswerIdx);

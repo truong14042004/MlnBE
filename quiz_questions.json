@@ -1,0 +1,2050 @@
+[
+  {
+    "question": "Triết hoc có chức năng cơ bản nào?",
+    "options": [
+      "Chức năng thế giới quan",
+      "Chức năng phương pháp luận chung nhất.",
+      "Cả a và b",
+      "Không có câu trả lời đúng"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Nguồn gốc của chủ nghĩa duy tâm?",
+    "options": [
+      "Do hạn chế của nhận thức con người về thế giới.",
+      "Sự phân chia giai cấp và sự tách rời đối lập giữa lao động trí óc và lao động chân tay trong xã hội có giai cấp đối kháng",
+      "Cả a và b",
+      "Khác"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Trong xã hội có giai cấp, triết hoc:",
+    "options": [
+      "Cũng có tính giai cấp.",
+      "Không có tính giai cấp.",
+      "Chỉ triết hoc phương tây mới có tính giai cấp.",
+      "Tùy từng hoc thuyết cu thể."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Chon luận điểm thể hiện lập trường triết hoc duy tâm lich sử.",
+    "options": [
+      "Quan hệ sản xuất mang tính chất vật chất.",
+      "Yếu tố kinh tề quyết đinh lich sử.",
+      "Sự vận đồng, phát triển của xã hội, suy cho đến cùng là do tư tưởng của con người quyết đinh.",
+      "Kiến trúc thượng tầng chỉ đóng vai trò thu động trong lich sử."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Nhận đinh sau đây thuộc lập trường triết hoc nào? \"Nhân tố kinh tế là nhân tố quyết đinh duy nhất trong lich sử.\"",
+    "options": [
+      "Chủ nghĩa duy vậy biện chứng.",
+      "Chủ nghĩa duy tâm chủ quan.",
+      "Chủ nghĩa duy tâm khách quan.",
+      "Chủ nghĩa duy vật tầm thường."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Phép biện chứng cổ đại là:",
+    "options": [
+      "Biện chứng duy tâm.",
+      "Biện chứng ngây thơ, chất phác.",
+      "Biện chứng duy vật khoa hoc.",
+      "Biện chứng chủ quan."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Phép biện chứng của triết hoc Hêghen là:",
+    "options": [
+      "Phép biện chứng duy tâm chủ quan.",
+      "Phép biện chứng duy vật hiện đại.",
+      "Phép biện chứng ngây thơ chất phác.",
+      "Phép biện chứng duy tâm khách quan."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Vận động của tự nhiên và lich sử là sự tha hóa từ sự tự vận động của ý niệm tuyệt đối. Quan niệm trên thuộc lập trường triết hoc nào?",
+    "options": [
+      "Chủ nghĩa duy vật.",
+      "Chủ nghĩa duy tâm chủ quan.",
+      "Chủ nghĩa duy tâm khách quan.",
+      "Chủ nghĩa nhi nguyên triết hoc."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Chon cum từ đúng để điền vào chỗ trống: \"Điểm xuất phát của ......... là: sự khẳng đinh những sự vật và hiện tượng của tự nhiên đều bao gồm những mâu thuẫn vốn có của chúng\".",
+    "options": [
+      "Phép siêu hình.",
+      "Phép biện chứng.",
+      "Phép biện chứng duy tâm.",
+      "Phép biện chứng duy vật."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Chon cum từ đúng điền vào chỗ trống: \"Phép siêu hình đẩy lùi được ......... nhưng chính nó lại bi phép biện chứng hiện đại phủ đinh\".",
+    "options": [
+      "Phép biện chứng duy tâm.",
+      "Phép biện chứng cổ đại.",
+      "Chủ nghĩa duy tâm.",
+      "Chủ nghĩa duy vật."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "\"Tất cả cái gì đang vận động, đều vận động nhờ một cái khác nào đó\". Nhận đinh này gắn liện với hệ thồng triết hoc nào? Hãy chon phương án sai.",
+    "options": [
+      "Triết hoc duy vật.",
+      "Triết hoc duy tâm.",
+      "Triết hoc duy tâm khách quan.",
+      "Triết hoc duy tâm chủ quan."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Nên gắn ý kiến: \"Nguyên nhân cao hơn, hoàn thiện hơn với kết quả của nó\" với lập trường triết hoc nào?",
+    "options": [
+      "Triết hoc duy tâm chủ quan.",
+      "Triết hoc duy tâm khách quan.",
+      "Triết hoc duy vật.",
+      "Khác."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Hãy chon luận điểm quan trong để bác lại thế giới quan tôn giáo.",
+    "options": [
+      "Nguyên nhân ngang bằng với kết quả của nó.",
+      "Nguyên nhân cao hơn, hoàn thiện hơn kết quả của nó.",
+      "Khác."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Chon nhận đinh theo quan điểm siêu hình.",
+    "options": [
+      "Cái chung tồn tại một cách độc lập, không phu thuộc vào cái riêng.",
+      "Cái chung không tồn tại một cách thực sự, trong hiện thực chỉ có cách sự vật đơn thuần nhất là tồn tại.",
+      "Cái chung chỉ tồn tại trong danh nghĩa do chủ thể đang nhận thức gắn cho sự vật như một thuật ngữ để biểu thi sự vật.",
+      "Khác."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Triết hoc có chức năng:",
+    "options": [
+      "Thế giới khác quan.",
+      "Phương pháp luận.",
+      "Thế giới quan và phương pháp luận.",
+      "Khác."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Nội dung cơ bản của thế giới quan bao gồm:",
+    "options": [
+      "Vũ tru quan (triết hoc về giới tự nhiên).",
+      "Xã hội quan (triết hoc về xã hội).",
+      "Nhân sinh quan.",
+      "Cả A, B, C"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Hạt nhân chủ yếu của thế giới quan là gì?",
+    "options": [
+      "Các quan điểm xã hội - chính tri.",
+      "Các quan điểm triết hoc.",
+      "Các quan điểm mỹ hoc.",
+      "Cả A, B, C."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Vấn đề cơ bản trong một thế giới quan cũng là vấn đề cơ bản của triết hoc:",
+    "options": [
+      "Đúng.",
+      "Sai.",
+      "Khác."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Chon câu trả lời đúng.",
+    "options": [
+      "Thế giới quan là sự phản ánh của sự tồn tại vật chất và xã hội của con người dưới hình thức các quan niệm, quan điểm chung.",
+      "Thế giới quan trực tiếp phu thuộc vào trình độ hiểu biết của con người đã đạt được trong một giai đoạn lich sử nhất đinh.",
+      "Thế giới quan phu thuộc vào chế độ xã hội đang thống tri.",
+      "Cả A, B, C."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Thế giới quan có ý nghĩa trên những phương diện nào?",
+    "options": [
+      "Trên phương diện lý luận",
+      "Trên phương diện thực tiễn",
+      "Cả A và B",
+      "Khác."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Thế giới quan khoa hoc dựa trên lập trường triết hoc nào?",
+    "options": [
+      "Chủ nghĩa duy tâm chủ quan.",
+      "Chủ nghĩa duy tâm khác quan.",
+      "Chủ nghĩa duy vật.",
+      "Khác."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Triết hoc bao gồm quan điểm chung nhất, những sự lý giải có luận chứng cho các câu hỏi chung của con người, nên triết hoc bao gồm toàn bộ tri thức của nhân loại. Kết luận trên ứng với triết hoc thời kỳ nào? Chon câu trả lời đúng:",
+    "options": [
+      "Triết hoc cổ đại.",
+      "Triết hoc Phuc Hưng.",
+      "Triết hoc Trung cổ Tây Âu.",
+      "Triết hoc Mác - Lênin."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "\"Triết hoc Mác - Lênin là khoa hoc của moi khoa hoc\".",
+    "options": [
+      "Đúng.",
+      "Sai.",
+      "Khác."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Xác đinh quan điểm duy vật biện chứng trong số luận điểm sau:",
+    "options": [
+      "Thế giới thống nhất ở tính tồn tại của nó.",
+      "Thế giới thống nhất ở nguồn gốc tính thần.",
+      "Thế giới thống nhất ở tính vật chất.",
+      "Thế giới thống nhất ở sự suy nghĩ về nó như là cái thống nhất."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Việc thừa nhận hay không thừa nhận tính thống nhất của thế giới có phải là sự khác nhau căn bản giữa chủ nghĩa duy vật và chủ nghĩa duy tâm hay không?",
+    "options": [
+      "Có.",
+      "Không.",
+      "Khác."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Điểm chung trong quan niệm của các nhà triết hoc duy vật thời kỳ cổ đại về vật chất là:",
+    "options": [
+      "Đồng nhất vật chất với vật thể cu thể cảm tính.",
+      "Đồng nhất vật chất với thuộc tính phổ biến của vật thể.",
+      "Đồng nhất vật chất với nguyên tử.",
+      "Đồng nhất vật chất với thực tại khách quan."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Tính đúng đắn trong quan niệm về vật chất của các nhà triết hoc duy vật thời kỳ cổ đại là:",
+    "options": [
+      "Xuất phát từ thế giới vật chất để khái quát quan niệm về vật chất.",
+      "Xuất phát từ kinh nghiệm thực tiễn.",
+      "Xuất phát từ tư duy.",
+      "Ý kiến khác."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Khi khoa hoc tự nhiên phát hiện ra tia X, ra hiện tượng phóng xạ, ra điện tử là một thành phần cấu tạo nên nguyên tử. Theo V.I.Lênin điều đó chứng tỏ gì?",
+    "options": [
+      "Vật chất không tồn tại thật sự.",
+      "Vật chất tiêu tan mất.",
+      "Giới hạn hiểu biết trước đây của chúng ta về vật chất mất đi.",
+      "Vật chất có tồn tại thực sự nhưng không thể nhận thức được."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Khi nhận thức được (phát hiện được) cấu trúc của nguyên tử thì có làm cho nguyên tử mất đi không?",
+    "options": [
+      "Có, vì....",
+      "Không, vì..."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Theo quan niệm của chủ nghĩa duy vật biến chứng thì chân không có phải là tồn tại vật chất không? Vì sao?",
+    "options": [
+      "Có",
+      "Không"
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Theo quan niệm của chủ nghĩa duy vật biện chứng thì vật thể có là vật chất không? Theo nghĩa nào?",
+    "options": [
+      "Có",
+      "Không"
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Chủ nghĩa duy vật biện chứng có cho khái niệm vật chất đồng nhất với khái niệm vật thể không?",
+    "options": [
+      "Có",
+      "Không"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Những phát minh của vật lý hoc cận đại đã bác bỏ khuynh hướng triết hoc nào?",
+    "options": [
+      "Duy vật chất phác.",
+      "Duy vật siêu hình.",
+      "Duy vật biện chứng.",
+      "Duy vật chất phác và duy vật siêu hình."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Có thể coi trường và hạt cơ bản là giới hạn cuối cũng của cấu tạo vật chất vật lý được không? Vì sao?",
+    "options": [
+      "Có",
+      "Không"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Khái niệm trung tâm mà V.I.Lênin sử dung để đinh nghĩa về vật chất là khái niệm nào?",
+    "options": [
+      "Phạm trù triết hoc.",
+      "Thực tại khách quan.",
+      "Cảm giác.",
+      "Phản ánh."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Trong đinh nghĩa về vật chất của mình, V.I.Lênin cho thuộc tính chung nhất của vật chất là:",
+    "options": [
+      "Tự vận động.",
+      "Cùng tồn tại.",
+      "Đều có khả năng phản ánh.",
+      "Tồn tại khách quan bên ngoài ý thức, không lệ thuộc vào cảm giác."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Xác đinh mệnh đề sai:",
+    "options": [
+      "Vật thể không phải là vật chất.",
+      "Vật chất không phải chỉ là một dạng tồn tại là vật thể.",
+      "Vật thể là dạng cu thể của vật chất.",
+      "Vật chất tồn tại thông qua những dạng cu thể của nó."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Xác đinh mệnh đề đúng theo quan điểm duy vật biện chứng.",
+    "options": [
+      "Phản điện tử, phản hạt nhân là phi vật chất.",
+      "Phản điện tử, phản hạt nhân là thực tại khách quan, là dạng cu thể của vật chất.",
+      "Phản vật chất là sự tưởng tượng thuần túy của các nhà vật lý hoc.",
+      "Phản vật chất không phải là vật chất."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Xác đinh mệnh đề đúng:",
+    "options": [
+      "Vận động tồn tại trước rồi sinh ra vật chất.",
+      "Vật chất tồn tại rồi mới vận động phát triển.",
+      "Không có vận động ngoài vật chất.",
+      "Không có vật chất không vận động."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Sai lầm của các các nhà triết hoc cổ đại trong quan niệm về vật chất:",
+    "options": [
+      "Đồng nhất vật chất với một số dạng vật thể cu thể, cảm tính.",
+      "Vật chất là tất cả cái tồn tại khách quan.",
+      "Vật chất là cái có thể nhận thức được.",
+      "Vật chất tự thân vận động."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Hãy chỉ ra sai lầm của các nhà triết hoc thế kỷ XVII-XVIII trong quan niệm về vật chất.",
+    "options": [
+      "Đồng nhất vật chất với vật thể.",
+      "Đồng nhất vật chất với một số tính chất phổ biến của vật thể.",
+      "Vật chất là cái có thể nhận thức được.",
+      "Vật chất biểu hiện qua không gian và thời gian."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Tồn tại khách quan là tồn tại như thế nào?",
+    "options": [
+      "Tồn tại bên ngoài ý thức của con người, không phu thuộc vào ý thức của con người, độc lập vào ý thức của con người.",
+      "Được ý thức của con người phản ánh.",
+      "Tồn tại không thể nhận thức được.",
+      "Cả A và B."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Mệnh đề nào đúng?",
+    "options": [
+      "Vật chất là cái tồn tại.",
+      "Vật chất là cái không tồn tại.",
+      "Vật chất là cái tồn tại khách quan."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Hãy sắp xếp các mệnh đề sau cho đúng trật tự logic trong ý nghĩa của đinh nghĩa vật chất của V.I.Lênin:",
+    "options": [
+      "(1)-(2)-(3)",
+      "(3)-(2)-(1)",
+      "(2)-(3)-(1)",
+      "(2)-(1)-(3)"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Khi nói vật chất tự thân vận động là muốn nói:",
+    "options": [
+      "Do kết quả sự tác động lẫn nhau giữa các yếu tố, các bộ phận tạo nên sự vật.",
+      "Do nguyên nhân vốn có của vật chất.",
+      "Cả A và B"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Bản chất của thế giới là vật chất, thế giới thống nhất ở tính vật chất. Điều đó thể hiện ở chỗ:",
+    "options": [
+      "Chỉ có một thế giới duy nhất là thế giới vật chất.",
+      "Tất cả moi sự vật, hiện tượng của thế giới chỉ là những hình thức biếu hiện đa dạng của vật chất với những mối liên hệ vật chất và tuân theo quy luật khách quan.",
+      "Thế giới vật chất tồn tại vĩnh viễn, vô hạn và vô tận.",
+      "Thể hiện ở cả A, B, C."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Theo Ph. Angghen, tính thống nhất vật chất của thế giới được chứng minh bởi:",
+    "options": [
+      "Thực tiễn lich sử.",
+      "Thực tiễn cách mạng.",
+      "Sự phát triển lâu dài của khoa hoc.",
+      "Sự phát triển lâu dài và khó khăn của triết hoc và khoa hoc tự nhiên."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Trung tâm đinh nghĩa vật chất của V.I.Lê nin là cum từ nào?",
+    "options": [
+      "Thực tại khách quan.",
+      "Phạm trù triết hoc.",
+      "Được đem lại cho con người trong cảm giác.",
+      "Không lệ thuộc vào cảm giác."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Thuộc tính cơ bản nhất của vật chất nhờ đó phân biệt vật chất với ý thức đả được V.I.Lê nin xác đinh trong đinh nghĩa vật chất là thuộc tính:",
+    "options": [
+      "Tồn tại.",
+      "Tồn tại khách quan.",
+      "Có thể nhận thức được.",
+      "Tính đa dạng."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Về mặt nhận thức luận thì khái niệm vật chất không có ý nghĩa gì khác mà chính là:",
+    "options": [
+      "Tồn tại khách quan.",
+      "Thực tại khách quan tồn tại độc lập với ý thức con người.",
+      "Được ý thức con người phản ánh.",
+      "Tồn tại thực sự."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Xác đinh nội dung cơ bản trong đinh nghĩa của V.I.Lê nin về vật chất:",
+    "options": [
+      "Thực tại khách quan.",
+      "Thực tại khách quan tồn tại độc lập với cảm giác.",
+      "Thực tại khách quan - tồn tại độc lập với ý thức và khi tác động đến giác quan con người thì có thể sinh ra cảm giác.",
+      "Tồn tại khách quan nhưng không thể nhận biết ra nó vì thực tại đó là một sự trừu tượng của tư duy."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Hạn chế trong quan niệm của các nhà triết hoc duy vật thời cận đại Tây Âu là ở chỗ:",
+    "options": [
+      "Coi vận động của vật chất là vận động cơ giới.",
+      "Coi vận động là thuộc tính vốn có của vật thể.",
+      "Coi vận động là phương thức tồn tại của vật chất.",
+      "Cả A, B, C."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Hai mệnh đề \"Vận động là thuộc tính cố hữu của vật chất\" và \"Vận động là phương thức tồn tại của vật chất\" được hiểu là:",
+    "options": [
+      "Vật chất tồn tại bằng cách vận động.",
+      "Vật chất biểu hiện sự tồn tại cu thể, đa dạng thông qua vận động.",
+      "Không thể có vận động phi vật chất cũng như không thể có vật chất không vận động.",
+      "Cả A, B, C."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Nếu không thể thừa nhận vật chất tự thân vận động thì nhất đinh quan điểm duy tâm về nguồn gốc của vận động của vật chất, vì:",
+    "options": [
+      "Sẽ phải thừa nhận nguyên nhân của vật chất là từ ý thức.",
+      "Sẽ phải thừa nhận nguyên nhân cuối cùng của moi vận động vật chất là từ ý thức.",
+      "Sẽ phải thừa nhận vật chất không vận động.",
+      "Sẽ phải thừa nhận nguyên nhân vận động của vật chất là từ Thượng Đế."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Lựa chon mệnh đề phát biểu đúng trong số các mệnh đề được liệt kê sau đây:",
+    "options": [
+      "Thế giới vật chất có 5 hình thức vận động.",
+      "Các hình thức vận động của vật chất tồn tại độc lập với nhau.",
+      "Các hình thức vận động của vật chất có thể chuyển hóa lẫn nhau.",
+      "Giữa các hình thức vận động của vật chất có tồn tại hình thức vận động trung gian."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Lựa chon mệnh đề đúng trong số các mệnh đề được liệt kê dưới đây:",
+    "options": [
+      "Mỗi sự vật chỉ có một hình thức vận động.",
+      "Trong một sự vật có thể tồn tại nhiều hình thức vận động.",
+      "Mỗi sự vật thường được đặc trưng bởi một hình thức vận động cao nhất mà nó có.",
+      "Hình thức vận động cao hơn có thể bao hàm trong nó những hình thức vận động thấp hơn."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Đứng im là:",
+    "options": [
+      "Tuyệt đối.",
+      "Tương đối.",
+      "Vừa tuyệt đối vừa tương đối.",
+      "Không có câu trả lời đúng."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Không gian và thời gian:",
+    "options": [
+      "Không gian là hình thức tồn tại của vật chất, còn thời gian là phương thức tồn tại của vật chất.",
+      "Không gian là phương thức tồn tại của vật chất, còn thời gian là hình thức tồn tại của vật chất.",
+      "Không gian và thời gian là những hình thức cơ bản của tồn tại vật chất.",
+      "Không gian và thời gian là những phương thức cơ bản của tồn tại vật chất."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Theo quan điểm của triết hoc Mác - Lê nin, thuộc tính phản ánh là thuộc tính:",
+    "options": [
+      "Riêng có ở con người.",
+      "Chỉ có ở các cơ thể sống.",
+      "Chỉ có ở vật chất vô cơ.",
+      "Phổ biến ở moi tố chức vật chất."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Sự tiến hóa của các hình thức phản ánh của vật:",
+    "options": [
+      "Quá trình tiến hóa - phát triển của các dạng vật chất giới tự nhiên.",
+      "Quá trình tiến hóa - phát triển của các giống loài sinh vật.",
+      "Quá trình tiến hóa - phát triển của thế giới.",
+      "Cả A, B, C."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Khái quát nguồn gốc tự nhiên của ý thức:",
+    "options": [
+      "Nguồn gốc tự nhiên và ngôn ngữ.",
+      "Nguồn gốc tự nhiên và xã hội.",
+      "Nguồn gốc lich sử - xã hội và hoạt động của bộ não con người.",
+      "Cả B và C."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Nhân tố cơ bản, trực tiếp tạo thành nguồn gốc xã hội của ý thức:",
+    "options": [
+      "Lao động và ngôn ngữ.",
+      "Lao động trí óc và lao động chân tay.",
+      "Thực tiễn kinh tế và lao động.",
+      "Lao động và nghiên cứu khoa hoc."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Nguồn gốc xã hội trực tiếp và quan trong nhất quyết đinh sự ra đời và phát triển của ý thức là:",
+    "options": [
+      "Lao động trí óc.",
+      "Thực tiễn.",
+      "Giáo duc.",
+      "Nghiên cứu khoa hoc."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Ngôn ngữ đóng vai trò là:",
+    "options": [
+      "\"Cái vỏ vật chất\" của ý thức.",
+      "Nội dung của ý thức.",
+      "Nội dung trung tâm của ý thức.",
+      "Cả a, b, c."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Theo quan điểm của triết hoc Mác - Lê nin: ý thức là:",
+    "options": [
+      "Một dạng tồn tại của vật chất.",
+      "Dạng vật chất đặc biệt mà người ta không thể dùng giác quan trực tiếp để cảm nhận.",
+      "Sự phản ánh tinh thần của con người về thế giới.",
+      "Cả A, B, C."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Chon từ phù hợp điền vào câu sau cho đúng với quan điểm duy vật biện chứng: \"Ý thức chẳng qua là.... được di chuyển vào bộ óc con người và được cải biến ở trong đó\".",
+    "options": [
+      "Vật chất.",
+      "Cái vật chất.",
+      "Vật thể.",
+      "Thông tin."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Bản chất của ý thức được thể hiện ở đặc trưng nào?",
+    "options": [
+      "Tính phi cảm giác",
+      "Tính sáng tạo",
+      "Tính xã hội",
+      "Cả A, B, C"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Ý thức:",
+    "options": [
+      "Có thể sáng tạo ra thế giới khách quan.",
+      "Không thể sáng tạo ra thế giới khách quan.",
+      "Có thể sáng tạo ra thế giới khách quan thông qua thực tiễn.",
+      "Không có ý kiến đúng."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Tri thức đóng vai trò là:",
+    "options": [
+      "Nội dung cơ bản của ý thức.",
+      "Phương thức tồn tại của ý thức",
+      "Cả A và B",
+      "Không có ý kiến đúng."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Mối quan hệ biện chứng giữa vật chất và ý thức được thực hiện thông qua:",
+    "options": [
+      "Sự suy nghĩ của con người.",
+      "Hoạt động thực tiễn",
+      "Hoạt động lý luận.",
+      "Cả A, B, C."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Sự thông thái của con người:",
+    "options": [
+      "Được thể hiện nhiều hơn trong hoạt động nghiên cứu lý luận.",
+      "Được thể hiện nhiều hơn trong hoạt động thực tiễn.",
+      "Được thể hiện nhiều hơn trong hoạt động lý luận.",
+      "Được thể hiện nhiều hơn trong hoạt động thực tiễn."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Phương pháp luận chung của chủ nghĩa duy vật là trong nhận thức và thực tiễn cần:",
+    "options": [
+      "Xuất phát từ thực tế khách quan.",
+      "Phát huy năng động chủ quan.",
+      "Xuất phát từ thực tế khách quan đồng thời phát huy năng động chủ quan.",
+      "Phát huy năng động chủ quan trên cơ sở tôn trong thực tế khách quan."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Để phát huy vai trò tích cực của ý thức trong thực tiễn cần phải:",
+    "options": [
+      "Có ý thức phản ánh đúng thực tại khách quan.",
+      "Có một tư tưởng sáng tạo.",
+      "Ý thức phải được vật chất hoá trong thực tiễn.",
+      "Cả 3 phương án trên."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Theo quan điểm duy vật biện chứng, trong nhận thức và thực tiễn cần:",
+    "options": [
+      "Phát huy tính năng động chủ quan.",
+      "Xuất phát từ thực tế khách quan.",
+      "Cả A và B",
+      "Không có phương án đúng."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Đặc điểm chủ yếu của phép biện chứng trong triết hoc Hy Lạp là:",
+    "options": [
+      "Tính chất duy tâm.",
+      "Tính chất duy vật, chưa triệt để.",
+      "Tính chất tự phát, mộc mạc, ngây thơ",
+      "Tính chất khoa hoc."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Chon câu trả lời đúng nhất theo quan điểm duy vật biện chứng: Moi sự vật, hiện tượng của thế giới đều:",
+    "options": [
+      "Tồn tại trong sự tách rời tuyệt đối.",
+      "Tồn tại trong mối liên hệ phổ biến.",
+      "Không ngừng biến đổi, phát triển.",
+      "Cả B và C"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Phép biện chứng nào cho rằng biện chứng ý niệm sinh ra biện chứng của sự vật.",
+    "options": [
+      "Phép biện chứng thời kỳ cổ đại.",
+      "Phép biện chứng của các nhà tư tưởng xã hội dân chủ Nga.",
+      "Phép biện chứng duy vật.",
+      "Phép biện chứng duy tâm khách quan"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Tại sao C.Mác nói phép biện chứng của G.W.Ph.Hêghen là phép biện chứng lộn đầu xuống đất?",
+    "options": [
+      "Thừa nhận sự tồn tại khách quan của thế giới vật chất.",
+      "Thừa nhận tinh thần là sản phẩm của thế giới vật chất.",
+      "Thừa nhận sự tồn tại độc lập của tinh thần.",
+      "Thừa nhận tự nhiên, xã hội là sản phẩm của quá trình phát triển của tinh thần, của ý niệm."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Biện chứng khách quan là gì?",
+    "options": [
+      "Là những quan niệm biện chứng tiên nghiệm, có trước kinh nghiệm.",
+      "Là những quan niệm biện chứng được rút ra từ ý niệm tuyệt đối độc lập với ý thức con người.",
+      "Là biện chứng của các tồn tại vật chất.",
+      "Là biện chứng không thể nhận thức được nó."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Biện chứng chủ quan là gì?",
+    "options": [
+      "Là biện chứng của tư duy tư biện, thuần tuý.",
+      "Là biện chứng của ý thức.",
+      "Là biện chứng của thực tiễn xã hội.",
+      "Là biện chứng của lý luận."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Biện chứng tự phát là gì?",
+    "options": [
+      "Là biện chứng của bản thân thế giới khách quan.",
+      "Là biện chứng chủ quan thuần tuý.",
+      "Là biện chứng của bản thân thế giới khách quan khi con người chưa nhận thức được.",
+      "Là những yếu tố biện chứng con người đạt được trong quá trình tìm hiểu thế giới nhưng chưa có hệ thống."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Đâu là biện chứng với tính cách là khoa hoc trong số các quan niệm, các hệ thống lý luận dưới đây?",
+    "options": [
+      "Những quan niệm biện chứng ở thời kỳ cổ đại.",
+      "Những quan niệm biện chứng của các nhà duy vật thế kỷ XVII-XVIII.",
+      "Những quan niệm biện chứng của các nhà khoa hoc tư nhiên thế kỷ XVII-XVIII.",
+      "Phép biện chứng duy vật."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Theo quan niệm của chủ nghĩa duy vật biện chứng giữa biện chứng chủ quan và biện chứng khách quan quan hệ với nhau như thế nào?",
+    "options": [
+      "Biện chứng chủ quan quyết đinh biện chứng khách quan",
+      "Biện chứng chủ quan hoàn toàn độc lập với biện chứng khách quan",
+      "Biện chứng chủ quan phản ánh biện chứng khách quan",
+      "Biện chứng khách quan là sự thể hiện của biện chứng chủ quan"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Đâu là nội dung nguyên lý của phép biện chứng duy vật về mối liên hệ phổ biến của các sự vật và hiện tượng.",
+    "options": [
+      "Các sự vật và hiện tượng trong thế giới tồn tại tách rời nhau, giữa chúng không có sự phu thuộc, ràng buộc lẫn nhau",
+      "Các sự vật có sự liên hệ tác động nhau nhưng không có sự chuyển hóa lẫn nhau",
+      "Sự vật khác nhau ở vẻ bề ngoài, do chủ quan con người quy đinh, bản chất sự vật không có gì khác nhau",
+      "Thế giới là một chỉnh thể bao gồm các sự vật, các quá trình tách biệt nhau, vừa có liên hệ qua lại, vừa thâm nhập và chuyển hóa lẫn nhau."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Đâu là quan niệm của phép biện chứng duy vật về cơ sở các mối liên hệ.",
+    "options": [
+      "Cơ sở sự liên hệ tác động qua lại giữa các sự vật và hiện tượng ở ý thức, cảm giác con người",
+      "Cơ sở sự liên hệ, tác động qua lại giữa các sự vật là ở ý niệm về sự thống nhất thế giới",
+      "Cơ sở sự liên hệ giữa các sự vật là do các lực bên ngoài có tính chất ngẫu nhiên đối với các sự vật",
+      "Sự liên hệ qua lại giữa các sự vật, hiện tượng có cơ sở ở tính thống nhất vật chất của thế giới"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Đâu là quan niệm của phép biện chứng duy vật về vai trò của các mối liên hệ đối với sự vận động và phát triển của các sự vật và hiện tượng?",
+    "options": [
+      "Các mối liên hệ có vai trò khác nhau",
+      "Các mối liên hệ có vai trò như nhau",
+      "Các mối liên hệ có vai trò khác nhau tùy theo các điều kiện xác đinh",
+      "Các mối liên hệ luôn luôn có vai trò khác nhau"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "V.I.Lenin nói hai quan niệm cơ bản về sự phát triển:",
+    "options": [
+      "Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán",
+      "Bút kí triết hoc",
+      "Những người bạn dân là thế nào và ho đấu tranh chống những người dân chủ ra sao?",
+      "Về vai trò của chủ nghĩa duy vật chiến đấu."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Yêu cầu của quan điểm toàn diện phải xem xét tất cả các mối liên hệ của sự vật, yêu cầu này không thực hiện được, nhưng vẫn phải đề ra để làm gì?",
+    "options": [
+      "Chống quan điểm siêu hình",
+      "Chống quan điểm duy tâm",
+      "Chống chủ nghĩa chiết trung, và thuyết nguy biện",
+      "Đề phòng cho chúng ta khỏi phảm sai lầm và sự cứng nhắc"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Phép biện chứng được xác đinh với tư cách nào?",
+    "options": [
+      "Tư cách lý luận biện chứng",
+      "Tư cách phương pháp biện chứng",
+      "Cả 2 tư cách trên",
+      "Tư cách thế giới quan"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Thế nào là phép biện chứng duy vật?",
+    "options": [
+      "Là phép biện chứng được xác lập trên lập trường của chủ nghĩa duy vật",
+      "Là phép biện chứng của ý niệm tương đối",
+      "Là phép biện chứng do C.Mac và Ph. Angghen sáng lập",
+      "Cả A và C"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Thế nào là phép biện chứng duy tâm?",
+    "options": [
+      "Là phép biện chứng được xác lập trên lập trường của chủ nghĩa duy tâm",
+      "Là phép biện chứng của vật chất",
+      "Là phép biện chứng giải thích về nguồn gốc của sự vận động, biến đổi và ý niệm",
+      "Cả A và C"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Thế nào là biện chứng khách quan?",
+    "options": [
+      "Là khái niệm dùng để chỉ mối liên hệ biến đổi, phát triển khách quan vốn có của các sự vật hiện tượng",
+      "Là khái niệm dùng để chỉ mối liên hệ vốn có của ý niệm",
+      "Là khái niệm dùng để chỉ ra sự biến đổi không ngừng trong thế giới",
+      "Cả A và C"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Thế nào là biện chứng chủ quan?",
+    "options": [
+      "Là biện chứng của ý thức",
+      "Là biện chứng khách quan được phản ánh vào ý thức",
+      "Là bản chất của biện chứng khách quan",
+      "Cả Avà B"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Phương pháp biện chứng và phương pháp siêu hình khác nhau như thế nào?",
+    "options": [
+      "Phương pháp biện chứng xem xét, nghiên cứu các sự vật hiện tượng trong mối liên hệ phổ biến. Còn phương pháp siêu hình xem xét, nghiên cứu sự vật hiện tượng trong trạng thái cô lập tách rời",
+      "Phương pháp biện chứng xem xét nghiên cứu sự vật hiện tượng trong sự vận động phát triển không ngừng. Phương pháp siêu hình xem xét nghiên cứu sự vật hiện tượng trong sự đứng im bất biến",
+      "Cả A và B",
+      "Cả A và B đều sai"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Nguồn gốc của phương pháp siêu hình?",
+    "options": [
+      "Nguồn gốc nhận thức: bản thân các sự vật hiện tượng đều có tính ổn đinh tương đối. Mặt khác quá trình nhận thức nhiều khi đòi hỏi phải trừu tượng hóa các mối liên hệ nhất đinh của sự vật hiện tượng tạm thời cố đinh chúng để phân tích. Và sự sai lầm đó bắt đầu ở chỗ tuyệt đối hóa tính trừu tượng và ổn đinh đó.",
+      "Nguồn gốc lich sử: sự phát triển cùa khoa hoc tự nhiên thế kỉ XVII - XVIII với hai đặc điểm: - Phân ngành khoa hoc tạo nne6 sự ra đời của các khoa hoc cu thể đặc biệt là sự phát trển của cơ hoc cổ điển - Phương pháp nghiên cứu chủ yếu là phân tích và thực nghiệm. Từ đó dẫn đến cách nhìn nhận xem xét sự vật cô lập tách rời đứng im bất biến trong khoa hoc và dần trở thành phương pháp siêu hình trong triết hoc",
+      "Cả A và B",
+      "Cả A và B đều sai"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Phương pháp siêu hình thống tri triết hoc vào thời kì nào?",
+    "options": [
+      "Thế kỉ XV - XVI",
+      "Thế kỉ XVII - XVIII",
+      "Thế kỉ XVIII - XIX",
+      "Thế kỉ XIX - XX"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Có mấy hình thức cơ bản của phép biện chứng?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Những đặc điểm của phép biện chứng cổ đại?",
+    "options": [
+      "Là hình thức sơ khai nhất của phép biện chứng",
+      "Các nguyên lý quy luật của phép biện chứng cổ đại thường được thể hiện dưới hình thức manh nha trên cơ sở những quan sát, cảm nhận thông thường mà chưa được khái quát thành một hệ thống lý luận chặt chẽ",
+      "Phép biện chứng cổ đại đã phác hoa được bức tranh thống nhất của thế giới trong mối liên hệ phổ biến trong sự vận động và phát triển không ngừng",
+      "Cả A, B, C"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Những đại diện tiêu biểu của phép biện chứng cổ đại?",
+    "options": [
+      "Thuyết âm dương ngũ hành",
+      "Đạo Phật",
+      "Hêraclit",
+      "Cả A, B, C"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Đóng góp và hạn chế của phép biện chứng duy tâm cổ điển Đức:",
+    "options": [
+      "Phép biện chứng duy tâm cổ điển Đức là một hệ thống logic khá vững chắc. Hầu như các nguyên lý quy luật cơ bản của phép biện chứng với tư cách là hoc thuyết về mối liên hệ phổ biến về sự vận động và phát triển đã được xây dựng trong một hệ thống thống nhất.",
+      "Các luận điểm nguyên lý quy luật của phép biện chứng đã được luận giải ở tầm logic nội tại cực kì sâu sắc",
+      "Phép biện chứng duy tâm cổ điển Đức là một trong các tiền đề lý luận cho sự ra đời của triết hoc Mác.",
+      "Cả A, B, C"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Đặc điểm của phép biện chứng duy vật?",
+    "options": [
+      "Là hình thức phát triển cao nhất của lich sử phép biện chứng",
+      "Có sự thống nhất chặt chẽ giữa phép biện chứng và chủ nghĩa duy vật",
+      "Phép biện chứng duy vật bao quát một lĩnh vực tri thức rộng lớn, nó vừa có tư cách lý luận triết hoc bao quát, vừa đóng vai trò phương pháp luận triết hoc cơ bản.",
+      "Cả A, B, C"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Phép biện chứng duy vật bao gồm những nguyên lý quy luật cơ bản nào?",
+    "options": [
+      "1 nguyên lý, 1 quy luật",
+      "2 nguyên lý, 2 quy luật",
+      "2 nguyên lý, 3 quy luật",
+      "3 nguyên lý, 3 quy luật"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Thế nào là \"mối liên hệ\"?",
+    "options": [
+      "Là khái niệm cơ bản của phép biện chứng được sử dung để chỉ sự ràng buộc quy đinh lẫn nhau, đồng thời là sự tác động làm biến đổi lẫn nhau giữa các sự vật hiện tượng",
+      "Là khái niệm của phép biện chứng dùng chỉ sự nương tựa vào nhau của các sự vật hiện tượng",
+      "Là khái niệm của phép biện chứng dùng chỉ sự quy đinh làm tiền đề cho nhau giữa các sự vật hiện tượng",
+      "Cả A, B, C"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Tính khách quan của mối liên hệ:",
+    "options": [
+      "Là mối liên hệ vốn có của thế giới các ý niệm",
+      "Là mối liên hệ vốn có của sự vật hiện tượng. Cơ sở của nó là tính thống nhất vật chất của thế giới.",
+      "Là mối liên hệ khách quan tồn tại bên ngoài ý thức của con người.",
+      "Cả B và C."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Có thể tuyệt đối hóa sự khác biệt hoặc tuyệt đối hóa sự đồng nhất giữa các sự vật, hiện tượng không? Vì sao?",
+    "options": [
+      "Có",
+      "Không"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Cho haitam giác: ABC là tam giác thường, DEG là tam giác vuông. Những khẳng đinh nào sau đây khẳng đinh nào đúng?",
+    "options": [
+      "ABC là cái chung, DEG là cái riêng",
+      "ABC và DEG đều là cái riêng",
+      "ABC và DEG là cái riêng nhưng đồng thời có tính chất chung",
+      "Cả B và C"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Chỉ ra đâu không phải là quan điểm của chủ nghĩa duy vật biện chứng về sự tồn tại của cái chung trong các câu nói sau:",
+    "options": [
+      "Cái chung tồn tại khách quan ngoài cái riêng.",
+      "Cái chung thực sự tồn tại, nhưng không tồn tại ngoài cái riêng, mà thông qua cái riêng biểu hiện sự tồn tại của mình.",
+      "Cái chung thuần túy là sản phẩm của tư duy trừu tượng không có tồn tại cảm tính độc lập.",
+      "Cả A và C."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Các phạm trù được hình thành thông qua quá trình ... những thuộc tính, những mối liên hệ vốn có bên trong của bản thân sự vật.",
+    "options": [
+      "Liệt kê và phân tích",
+      "Chứng minh",
+      "Khái quát hóa, trừu tượng hóa",
+      "Khái quát và chứng minh"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Nội dung của các phạm trù luôn mang tính...",
+    "options": [
+      "Khách quan",
+      "Chủ quan",
+      "Khách quan và chủ quan",
+      "Cả ba đều sai"
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Hệ thống phạm trù của phép biện chứng duy vật là một....",
+    "options": [
+      "Hệ thống đóng kín, bất biến",
+      "Hệ thống mở",
+      "Cả hai đều sai",
+      "Cả hai đều đúng"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Phạm trù là những ... phản ánh những mặt, những thuộc tính, những mối liên hệ chung, cơ bản nhất của các sự vật và hiện tượng thuộc một lĩnh vực nhất đinh.",
+    "options": [
+      "Khái niệm",
+      "Khái niệm rộng",
+      "Khái niệm rộng nhất",
+      "Khái niệm hep"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "\"Cái riêng - Cái chung\" , \"Nguyên nhân - Kết quả\" , \"Tất nhiên - Ngẫu nhiên\" , \"Nội dung - Hình thức\" , \"Bản chất - Hiện tượng\" , \"Khả năng - Hiện thực\" đó là các ... của triết hoc Mác - Lênin.",
+    "options": [
+      "Cặp khái niệm",
+      "Thuật ngữ cơ bản",
+      "Cặp phạm trù cơ bản",
+      "Cặp phạm trù"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Các phạm trù của triết hoc phản ánh những mối liên hệ thuộc lĩnh vực nào của hiện thực:",
+    "options": [
+      "Lĩnh vực xã hội",
+      "Lĩnh vực tư duy",
+      "Lĩnh vực tự nhiên",
+      "Cả A, B, C"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Có sự khác nhau nào giữa \"khái niệm\" và \"phạm trù\"?",
+    "options": [
+      "\"Khái niệm\" chính là \"phạm trù\" (không có sự khác nhau).",
+      "\"Phạm trù\" phải là những \"khái niệm' rộng nhất.",
+      "\"Khái niệm\" không bao giờ là một \"phạm trù\".",
+      "\"Khái niệm\" phải là những \"phạm trù\" rộng nhất."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "\"Phạm trù chì là những từ trống rỗng, do con người tưởng tượng ra, đầy tính chủ quan và không biểu hiện hiện thực\". Đây là cách quan niệm của trường phái triết hoc nào?",
+    "options": [
+      "Trường phái triết hoc Duy thực",
+      "Trường phái triết hoc Duy danh",
+      "Trường phái Cantơ",
+      "Trường phài triết hoc mácxít"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "\"Cái nhà nói chung\" là không có thực, mà chỉ có những cái nhà riêng lẻ, cu thể mới tồn tại được. Đây là quan niệm của trường phái triết hoc nào?",
+    "options": [
+      "Trường phái hoc Duy thực",
+      "Trường phái hoc Duy danh",
+      "Trường phái Cantơ",
+      "Trường phái triết hoc Mácxít"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Quan điểm của trường phái triết hoc tách rời tuyệt đối mối quan hệ giữa cái chung và cái riêng:",
+    "options": [
+      "Trường phái hoc Duy danh",
+      "Trường phái hoc Duy thực",
+      "Cà hai trường phái trên",
+      "Không có đáp án đúng"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Các phạm trù được hình thành:",
+    "options": [
+      "Một cách bẩn sinh trong ý thức của con người",
+      "Sẵn có ở bên ngoài, độc lập với ý thức của con người",
+      "Thông qua quá trình hoạt động, nhận thức và thực tiễn của con người",
+      "Cả 3 đáp án trên"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Hình thức cơ bản đầu tiên của moi quá trình tư duy là:",
+    "options": [
+      "Cảm giác",
+      "Biểu tượng",
+      "Khái niệm",
+      "Suy luận"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Cái riêng là một phạm trù triết hoc để chỉ:",
+    "options": [
+      "Những mặt, những thuộc tính chung của nhiều sự vật",
+      "Một sự vật, một hiện tượng, một quá trình riêng lẻ nhất đinh",
+      "Những nét, những thuộc tính chỉ có ở một sự vật",
+      "Các yếu tố cấu thành một hệ thống"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Khái niệm cái đơn nhất dùng để chỉ cái...",
+    "options": [
+      "Tồn tại ở nhiều sự vật, hiện tượng",
+      "Chỉ tồn tại ở một sự vật, hiện tượng, tuyệt đối không lặp lại sự vật hiện tượng khác",
+      "Tồn tại ở một sự vật, hiện tượng, trong một quan hệ xác đinh",
+      "Không có phương án nào"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Phạm trù triết hoc nào dùng để chỉ những thuộc tính chung, không những có ở một kết cấu vật chất nhất đinh mà còn được lặp lại trong nhiều sự vật, hiện tượng hay quá trình riêng lẻ khác:",
+    "options": [
+      "Cái riêng",
+      "Cái chung",
+      "Cái đơn nhất",
+      "Tất cả đều sai"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Cái ... chỉtồn tại trong cái ... thông qua cái riêng mà biểu hiện sự tồn tại của mình.",
+    "options": [
+      "Chung/Riêng",
+      "Riêng/Chung",
+      "Chung/Đơn nhất",
+      "Đơn nhất/Riêng"
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Cái ... chỉ tồn tại trong mối liên hệ với cái ...",
+    "options": [
+      "Chung/Riêng",
+      "Riêng/Chung",
+      "Chung/Đơn nhất",
+      "Đơn nhất/Riêng"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Cái ... là cái toàn bộ, phong phú hơn cái ...",
+    "options": [
+      "Chung/Riêng",
+      "Riêng/Chung",
+      "Chung/Đơn nhất",
+      "Đơn nhất/Riêng"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Cái ... là cái bộ phận, nhưng sâu sắc hơn cái ...",
+    "options": [
+      "Chung/Riêng",
+      "Riêng/Chung",
+      "Chung/Đơn nhất",
+      "Đơn nhất/Riêng"
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Cái ... và cái ... có thể chuyển hóa lẫn nhau trong quá trình phát triển của sự vật.",
+    "options": [
+      "Chung/Riêng",
+      "Riêng/Chung",
+      "Chung/Đơn nhất",
+      "Đơn nhất/Riêng"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Cái riêng và cái chung có thể chuyển hóa (liên hệ, thống nhất, quy đinh lẫn nhau) cho nhau không?",
+    "options": [
+      "Có thế",
+      "Không thể",
+      "Vừa có thể vừa không thể"
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Công cuộc xây dựng chủ nghĩa xã hội trên thế giới phải xuất phát từ tình hình cu thể của từng đất nước. Đó là bài hoc về việc...",
+    "options": [
+      "Áp dung cái chung phải tùy theo từng cái riêng cu thể để vận dung cho thích hợp.",
+      "Áp dung cái chung phải tùy theo từng cái đơn nhất cu thể để vận dung cho thích hợp.",
+      "Áp dung cái riêng phải dựa vào cái chung."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Giả sử khái niệm Việt Nam là một \"Cái riêng\" thì yếu tố nào sau đây là cái đơn nhất:",
+    "options": [
+      "Con người.",
+      "Quốc gia.",
+      "Văn hóa.",
+      "Hà Nội."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Triết gia nào cho rằng: \"Cái chung là những ý niệm tồn tại vĩnh viễn, bên cạnh những cái riêng có tính chất tạm thời\".",
+    "options": [
+      "Đêmôcrít.",
+      "Hêraclít.",
+      "Platôn.",
+      "C. Mác."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Khi một vật, một hiện tượng mới được nảy sinh thì yếu tố nào sẽ xuất hiện đầu tiên:",
+    "options": [
+      "Cái chung.",
+      "Cái riêng.",
+      "Cái đơn nhất.",
+      "Cái phổ biến."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Phạm trù nhằm chỉ sự tác động lẫn nhau giữa các mặt trong một sự vật hoặc giữa các sự vật với nhau, gây ra một biến đổi nào đó, goi là gì?",
+    "options": [
+      "Nguyên nhân.",
+      "Kết quả.",
+      "Khả năng.",
+      "Không có đáp án nào đúng."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Phạm trù nhằm chỉ những biến đổi xuất hiện do tác động lẫn nhau giữa các mặt trong một sự vật hoặc giữa các sự vật với nhau gây ra, goi là gì?",
+    "options": [
+      "Nguyên nhân.",
+      "Kết quả.",
+      "Khả năng.",
+      "Hệ quả."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Nguyên nhân và kết quả, cái nào có trước?",
+    "options": [
+      "Nguyên nhân.",
+      "Kết quả.",
+      "Cả hai xuất hiện cùng lúc.",
+      "Không có đáp án nào đúng."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Trong các cặp khái niệm dưới đây, cặp nào (có thể) là quan hệ nhân quả.",
+    "options": [
+      "Đông - Tây",
+      "Nghèo - Dốt.",
+      "Xuân - Hạ.",
+      "Ngày - Đêm."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Có rất nhiều loại nguyên nhân, như: nguyên nhân cơ bản, nguyên nhân chủ yếu, nguyên nhân bên trong, nguyên nhân bên ngoài, nguyên nhân chủ quan, nguyên nhân khách quan... Điều đó chứng tỏ...",
+    "options": [
+      "Một kết quả chỉ có thể do một loại nguyên nhân gây ra.",
+      "Một kết quả có thể do nhiều loại nguyên nhân gây ra.",
+      "Một kết quả có thể không cần nguyên nhân gây ra.",
+      "Không thể nhận thức được quan hệ nguyên nhân - kết quả."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "\"Đói nghèo\" và \"Dốt nát\", hiện tượng nào là nguyên nhân, hiện tượng nào là kết quả?",
+    "options": [
+      "Đói nghèo là nguyên nhân, dốt nát là kết quả.",
+      "Dốt nát là nguyên nhân, đói nghèo là kết quả.",
+      "Cả hai đều là nguyên nhân.",
+      "Hiện tượng này vừa là nguyên nhân vừa là kết quả của hiện tượng kia."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Mối liên hệ nhân quả có các tính chất gì?",
+    "options": [
+      "Tính khách quan và tính phổ biến.",
+      "Tính khách quan và tính tất yếu.",
+      "Tính khách quan, tính chủ quan và tính tất yếu.",
+      "Tính khách quan, tính phổ biến và tính tất yếu."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Có những sự vật, hiện tượng xảy ra...",
+    "options": [
+      "Không có nguyên nhân nào.",
+      "Có nguyên nhân nhưng không thể nhận thức được.",
+      "Có nguyên nhân nhưng chưa nhận thức được.",
+      "Có nguyên nhân và luôn nhận thức được."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Những sự vật, hiện tượng nếu có cùng một nguyên nhân, trong những điều kiện giống nhau thì sẽ tạo nên những kết quả như nhau. Điều này thể hiện tính chất... của mối liên hệ nhân quả.",
+    "options": [
+      "Tính khách quan.",
+      "Tính phổ biến.",
+      "Tính tất yếu.",
+      "Tính biện chứng."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Mối liên hệ nhân quả của các sự vật, hiện tượng là...",
+    "options": [
+      "Phu thuộc vào ý thức của con người.",
+      "Do thượng đế sinh ra.",
+      "Do hoạt động của con người quy đinh.",
+      "Tất cả điều sai."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Ph.Ăngghen cho rằng: Đối với ai phủ nhận... thì moi quy luật của tự nhiên đều là giải thuyết.",
+    "options": [
+      "Vấn đề nội dung và hình thái.",
+      "Phạm trù khả năng và hiện thực.",
+      "Tính nhân quả.",
+      "Tính biện chứng."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Quan điểm cho rằng: Nguyên nhân của moi loại hiện tượng là do một thực thể tinh thần tồn tại bên ngoài ta tạo nên. Đó là quan điểm của trường phái triết hoc nào?",
+    "options": [
+      "Chủ nghĩa duy tâm chủ quan.",
+      "Chủ nghĩa duy tâm khách quan và tôn giáo.",
+      "Chủ nghĩa Mác - Lênin.",
+      "Cả A, B, C."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Quan điểm cho rằng mối liên hệ nhân quả bao trùm tất cả moi hiện tượng của hiện thực, không trừ một hiện tượng nào. Đây là nội dung của nguyên tắc nào?",
+    "options": [
+      "Nguyên tắc Quyết đinh luận.",
+      "Nguyên tắc Vô đinh luận.",
+      "Cả hai đều sai.",
+      "Cả hai đều đúng."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Vật trong chân không luôn chuyển động với gia tốc 9,8 m/s2; nước ở áp suất 1 atmôtphe luôn sôi ở 1000C. Điều này chứng tỏ...",
+    "options": [
+      "Giữa nguyên nhân và kết quả có mối quan hệ sản sinh.",
+      "Nguyên nhân luôn luôn có trước kết quả.",
+      "Một nguyên nhân nhất đinh, trong những hoàn cảnh giống nhau, sẽ tạo nên những kết quả giống nhau.",
+      "Không chứng tỏ điều gì."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Cái do những nguyên nhân cơ bản bên trong của kết cấu vật chất quyết đinh và trong những điều kiện nhất đinh, nó phải xảy ra như thế chứ không thể khác được, goi là gì?",
+    "options": [
+      "Tất nhiên.",
+      "Ngẫu nhiên.",
+      "Hệ quả.",
+      "Khả năng."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Cái không do mối liên hệ bản chất bên trong kết cấu vật chất, bên trong sự vật quyết đinh, mà do các nhân tố bên ngoài, do sự ngẫu hợp của nhiều hoàn cảnh bên ngoài quyết đinh, goi là gì?",
+    "options": [
+      "Tất nhiên.",
+      "Ngẫu nhiên.",
+      "Khả năng.",
+      "Không xác đinh"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Cái ngẫu nhiên là cái...",
+    "options": [
+      "Diễn ra hoàn toàn không chiu sự chi phối của quy luật nào.",
+      "Hoàn toàn diễn ra theo quy luật.",
+      "Biểu hiện của quy luật.",
+      "Không biểu hiện của bất cứ quy luật nào."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Cái tất nhiên tuân theo loại quy luật nào sau đây?",
+    "options": [
+      "Quy luật động lực.",
+      "Quy luật thống kê.",
+      "Quy luật khách quan.",
+      "Cả ba đều đúng."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Ném một đồng xu có hai mặt đen và trắng lên trời, đồng xu rơi xuống và ngửa mặt đen lên trên. Đấy là tất nhiên hay ngẫu nhiên?",
+    "options": [
+      "Tất nhiên.",
+      "Ngẫu nhiên.",
+      "Vừa tất nhiên vừa ngẫu nhiên.",
+      "Không có phương án trả lời đúng."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Đêmôcrít là người đã...",
+    "options": [
+      "Đề cao cái ngẫu nhiên.",
+      "Phủ đinh cái tất nhiên.",
+      "Phủ đinh cái ngẫu nhiên.",
+      "Tất cả đều sai."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "... tồn tại khách quan, độc lập với ý thức của con người.",
+    "options": [
+      "Tất nhiên và ngẫu nhiên.",
+      "Chỉ mỗi tất nhiên.",
+      "Chỉ mỗi ngẫu nhiên.",
+      "Tất nhiên và ngẫu nhiên đều không."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "nào dưới đây là câu đúng và đủ:",
+    "options": [
+      "Tất nhiên có thể chuyển hóa thành ngẫu nhiên.",
+      "Ngẫu nhiên có thể chuyển hóa thành tất nhiên.",
+      "Tất nhiên và ngẫu nhiên không thể chuyển hóa cho nhau.",
+      "Tất nhiên và ngẫu nhiên có thể chuyển hóa cho nhau."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "C. Mác - Ph.Ăngghen cho rằng: Cái mà người ta quả quyết cho là... thì lại hoàn toàn do những cái... cấu thành; và cái được coi là... lại là hình thức trong đó ẩn nấp...",
+    "options": [
+      "Tất yếu/ Ngẫu nhiên; Ngẫu nhiên/ Tất yếu.",
+      "Ngẫu nhiên/ Tất yếu; Tất yếu/ Ngẫu nhiên",
+      "Tất yếu/ Ngẫu nhiên; Tất yếu/ Ngẫu nhiên.",
+      "Ngẫu nhiên/ Tất yếu; Ngẫu nhiên/ Tất yếu"
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "V.I. Lênin cho rằng: Tính....không thể tách rời tính phổ biến.",
+    "options": [
+      "Nhân quả",
+      "Tất nhiên",
+      "Đơn nhất",
+      "Hiện thực"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "C. Mác cho rằng: Nếu như... không có tác dung gì cả, thì lich sử sẽ có một tính chất là rất thần bí.",
+    "options": [
+      "Tất nhiên",
+      "Ngẫu nhiên",
+      "Nguyên nhân",
+      "Tất cả đều sai"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Trong quá trình nhận thức và hoạt động thực tiễn, chúng ta cần...",
+    "options": [
+      "Phủ nhận, gạt bỏ cái ngẫu nhiên",
+      "Phủ nhận, gạt bỏ cái tất nhiên",
+      "Căn cứ vào cả cái tất nhiên và ngẫu nhiên",
+      "Cơ bản là phải căn cứ vào cái tất nhiên nhưng đồng thời phải tính tới cái ngẫu nhiên"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "...là tổng hợp tất cả những mặt, những yếu tố trong quá trình tạo nên sự vật",
+    "options": [
+      "Khả năng",
+      "Hiện thực",
+      "Nội dung",
+      "Hình thức"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "...là phương thức tồn tại và phát triển của sự vật, là hệ thống các mối liên hệ tương đối bền vững giữa các yếu tố của sự vật đó.",
+    "options": [
+      "Nguyên nhân",
+      "Kết quả",
+      "Nội dung",
+      "Hình thức"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Trong các cum từ dưới đây, cum từ nào được xem là\" hình thức\" trong cặp phạm trù \"nội dung - hình thức\" mà Phép biện chứng duy vật nghiên cứu: \"Truyện Kiều là...\"",
+    "options": [
+      "Tác phẩm của Nguyễn Du",
+      "Tác phẩm thơ luc bát",
+      "Tác phẩm có bìa màu xanh",
+      "Tác phẩm ra đời vào thế kỷ XVIII"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Trong tác phẩm Biện chứng của tự nhiên, Ph.Ăng- ghen viết: toàn bộ giới tự nhiên hữu cơ là bằng chứng liên tuc nói lên rằng... là đồng nhất và không thể tách rời được.",
+    "options": [
+      "Nguyên nhân và kết quả",
+      "Khả năng và hiện thực",
+      "Nội dung và hình thức",
+      "Bản chất và hiện tượng"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Không có... tồn tại thuần túy không chứa đựng... ngược lại cũng không có... lại không tồn tại trong một... xác đinh",
+    "options": [
+      "Hình thức / Nội dung; Nội dung/ Hình thức",
+      "Nội dung/ Hình thức; Hình thức / Nội dung",
+      "Hiện tượng/ Bản chất; Bản chất/ Hiện tượng",
+      "Bản chất/ Hiện tượng; Hiện tượng/ Bản chất"
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Trong quá trình vận động, phát triển của sự vật,... giữ vai trò quyết đinh...",
+    "options": [
+      "Hình thức/Nội dung",
+      "Nội dung/Hình thức",
+      "Hiện tượng/Bản chất",
+      "Ngẫu nhiên/Tất nhiên"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Giữa nội dung và hình thức, yếu tố nào chậm biến đổi hơn?",
+    "options": [
+      "Nội dung",
+      "Hình thức",
+      "Cả hai đều như nhau"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Khuynh hướng chủ đạo của nội dung là gì?",
+    "options": [
+      "Biến đổi",
+      "Ổn đinh",
+      "Cả hai đều sai"
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Sự biến đổi, phát triển của sự vật bao giờ cũng bắt đầu từ sự biến đổi, phát triển của...",
+    "options": [
+      "Hình thức",
+      "Nội dung",
+      "Cả hai biến đổi cùng một lần",
+      "A, B, C đều sai"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "V.I.Lênin viết: Những... cũ đã bi phá vỡ vì... mới của chúng",
+    "options": [
+      "Hình thức/Nội dung",
+      "Nội dung/Hình thức",
+      "Hiện tượng/Bản chất"
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Trong mối quan hệ giữa\" lực lượng sản xuất và quan hệ sản xuất\" , yếu tố nào là nội dung, yếu tố nào là hình thức?",
+    "options": [
+      "Lực lượng sản xuất là nội dung- quan hệ sản xuất là hình thức",
+      "Quan hệ sản xuất là nội dung- lực lượng sản xuất là hình thức",
+      "Lực lượng sản xuất và quan hệ sản xuất đều là nội dung",
+      "Lực lượng sản xuất và quan hệ sản xuất đều là hình thức"
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Ngược lại với chủ nghĩa giáo điều tả khuynh, chủ nghĩa giáo điều hữu khuynh...",
+    "options": [
+      "Luôn phủ nhận những hình thức cũ",
+      "Chỉ thừa nhận những hình thức cũ",
+      "Luôn đề cao những nội dung mới",
+      "Cả ba đều sai"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "C.Mác cho rằng: nếu... của sự vật là nhất trí với nhau, thìtất thảy khoa hoc sẽ trở nên thừa",
+    "options": [
+      "Nội dung và hình thức",
+      "Hiện tượng và bản chất",
+      "Nguyên nhân và kết quả",
+      "Cả A, B, C đều sai"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Tổng hợp tất cả những mặt, những mối liên hệ tất nhiên, tương đối ổn đinh bên trong sự vật, quy đinh sự vận động và phát triển của sự vật goi là gì?",
+    "options": [
+      "Bản chất",
+      "Hiện tượng",
+      "Nội dung",
+      "Hình thức"
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Hiện tượng là...",
+    "options": [
+      "Một bộ phận của bản chất",
+      "Luôn đồng nhất với bản chất",
+      "Biểu hiện bên ngoài của bản chất",
+      "Kết quả của bản chất"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Trong chủ nghĩa tư bản, ... quan hệ giữa giai cấp tư sản và giai cấp công nhân là quan hệ bóc lột",
+    "options": [
+      "Hình thức",
+      "Nội dung",
+      "Bản chất",
+      "Hiện tượng"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "\"Thế giới những thực thể tinh thần tồn tại vĩnh viễn và bất biến là bản chất chân chính của moi sự vật\". Đây là quan niệm của ai?",
+    "options": [
+      "Đêmôcrít",
+      "Hêraclít",
+      "Platôn",
+      "Ph. Ăngghen"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "\"Bản chất chỉ là tên goitrống rỗng mà con người tưởng tượng ra, nó không tồn tại trên thực tế\". Đây là quan niệm của trường phái triết hoc nào?",
+    "options": [
+      "Duy tâm khách quan",
+      "Bất khả vi",
+      "Duy vật biện chứng",
+      "Duy tâm chủ quan"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Chủ nghĩa duy vật biện chứng cho rằng: Bản chất là cái...và gắn liền với sự vật",
+    "options": [
+      "Không tồn tại ở hiện thực",
+      "Tồn tại khách quan",
+      "Tồn tại chủ quan"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "V.I.Lênin cho rằng: Nhận thức đi từ... đến..., từ bản chất ít sâu sắc đến bản chất sâu sắc hơn.",
+    "options": [
+      "Hình thức/Nội dung",
+      "Nội dung/Hình thức",
+      "Bản chất/Hiện tượng",
+      "Hiện tượng/Bản chất"
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Trong tác phẩm Bút ký triết hoc, V.I.Lênin có ví mối quan hệ giữa\"... và...\" với sự vận động của một con sông- bot ở bên trên và luồng nước sâu ở dưới",
+    "options": [
+      "Nội dung và hình thức",
+      "Khả năng và hiện thực",
+      "Hiện tượng và bản chất",
+      "Tất yếu và ngẫu nhiên"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "... tương đối ổn đinh, biến đổi chậm. Ngược lại, ... không ổn đinh mà luôn biến đổi",
+    "options": [
+      "Nội dung/ Hình thức",
+      "Bản chất/ Hiện tượng",
+      "Hiện tượng/ Bản chất"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Cùng một...có thể có nhiều...khác nhau, tùy theo sự thay đổi của điều kiện và hoàn cảnh",
+    "options": [
+      "Nội dung/ Hình thức",
+      "Bản chất/ Hiện tượng",
+      "Nguyên nhân/ Kết quả",
+      "Cả A, B, C"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Phạm trù triết hoc dùng để chỉ những gì hiện có, hiện đang tồn tại thực sự, goi là gì?",
+    "options": [
+      "Kết quả",
+      "Hiện thực.",
+      "Khả năng.",
+      "Hiện thực khách quan."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Phạm trù triết hoc dùng để chỉ những gì chưa có, nhưng sẽ có, sẽ tới khi có điều kiện tương ứng thích hợp goi là gì?",
+    "options": [
+      "Nguyên nhân.",
+      "Tất nhiên.",
+      "Khả năng.",
+      "Hiện thực."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Hiện thực khách quan có thể bao gồm cả...",
+    "options": [
+      "Khả năng và hiện thực.",
+      "Vật chất và ý thức.",
+      "Hiện thực.",
+      "Tất cả đều sai."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Khả năng là cái hiện thực...",
+    "options": [
+      "Đã xảy ra.",
+      "Chưa.",
+      "Không bao giờ xảy ra.",
+      "Đang tồn tại."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Trong những điều kiện nhất đinh, ở cùng một sự vật, có thể tồn tại nhiều khả năng không?",
+    "options": [
+      "Không thể.",
+      "Có thể.",
+      "Vừa không thể mà có thể.",
+      "Tất cả đều sai."
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Hạt thóc khi gieo xuống đất có thể nảy mầm thành cây lúa. Vậy hạt thóc là...",
+    "options": [
+      "Khả năng.",
+      "Hiện thực.",
+      "Không phải hiện thực.",
+      "Vừa khả năng vừa hiện thực."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Ở tronng lĩnh vực... khả năng không thể tự nó biến thành hiện thực nếu không có sự tham gia của con người.",
+    "options": [
+      "Tự nhiên.",
+      "Tự nhiên và xã hội.",
+      "Xã hội.",
+      "Tự nhiên và tư duy."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "V.l. Lenin khẳng đinh: Chủ nghĩa Mác dựa vào... chứ không phải dựa vào... để vạch ra đương lối chính tri của mình.",
+    "options": [
+      "Khả năng/ Hiện thực.",
+      "Hiện thực/ Ngẫu nhiên.",
+      "Hiện thực/ Khả năng.",
+      "Tất yếu/ Ngẫu nhiên."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "\"Hiện thực chủ quan\", khi cần thiết có thể dùng để chỉ...",
+    "options": [
+      "Ý thức.",
+      "Vật chất.",
+      "Khả năng.",
+      "Hiện thực khách quan."
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Phép biện chứng nghiên cứu nhưng quy luật nào?",
+    "options": [
+      "Những quy luật riêng trong từng lĩnh vực cu thể.",
+      "Những quy luật chung tác động trong một số lĩnh vực nhất đinh.",
+      "Các quy luật phổ biến trong moi lĩnh vực tồn tại của thế giới.",
+      "Cả A, B, C."
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Phép biện chứng nghiên cứu những quy luật cơ bản nào?",
+    "options": [
+      "Quy luật thống nhất và đấu tranh của các mặt đối lập.",
+      "Quy luật những thay đổi về lượng dẫn tới những thay đổi về chất và ngược lại.",
+      "Quy luật phủ đinh của phủ đinh.",
+      "Cả A, B, C."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Thế nào là mâu thuẫn biện chứng?",
+    "options": [
+      "Có hai mặt khác nhau.",
+      "Có hai mặt trái ngược nhau.",
+      "Có hai mặt đối lập nhau.",
+      "Sự thống nhất của các mặt đối lập."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Mâu thuẫn của sự vật diễn biến như thế nào?",
+    "options": [
+      "Có sự khác biệt của hai mặt trong sự vật.",
+      "Có sự đối lập của hai mặt đối lập.",
+      "Có sự chuyễn hóa của hai mặt đối lập.",
+      "Cả ba phương án trên."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Thế nào là thể thống nhất của hai mặt đối lập?",
+    "options": [
+      "Quy đinh lẫn nhau.",
+      "Tương đồng giữa các mặt đối lập.",
+      "Tác dung ngang bằng giữa cac maự đối lập.",
+      "Cả A, B, C."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Thế nào là mặt đối lập?",
+    "options": [
+      "Hai mặt khác nhau.",
+      "Thuộc tính khác nhau.",
+      "Vận động theo khuynh hướng khác nhau.",
+      "Cả A, B, C."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Khi nào khái niệm \"đồng nhất\", \"đồng chất\" được hiểu như khái niệm \"thống nhất\".",
+    "options": [
+      "Cùng một nguồn gốc \"đồng chất\" mà vẫn đối lập.",
+      "Ràng buộc, quy đinh, làm tiền đề tồn tại cho nhau.",
+      "Xâm nhập vào nhau, cùng chuyển hóa.",
+      "Cả A, B, C."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Những đặc trưng cơ bản của hai mặt đối lập trong thể thống nhất.",
+    "options": [
+      "Tính chất khác nhau.",
+      "Thuộc tính đối lập nhau.",
+      "Vận động theo xu thế khác nhau.",
+      "Cả B và C."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Các mặt đối lập thế nào sẽ tạo thành một thể thống nhất (một mâu thuẫn).",
+    "options": [
+      "Các mặt đối lập quy đinh lẫn nhau.",
+      "Tác động lẫn nhau.",
+      "Chuyển hóa lẫn nhau.",
+      "Cả A, B, C."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Thế nào là đấu tranh của các mặt đối lập trong một thể thống nhất?",
+    "options": [
+      "Xung đột gay gắt nhau.",
+      "Bài trừ, loại bỏ, gạt bỏ nhau giữa hai mặt đối lập.",
+      "Phủ đinh nhau, dẫn đến chuyển hóa.",
+      "Cả B và C."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Hãy sắp xếp theo trình tự xuất hiện từ sớm nhất đến muộn nhất các hình thức thế giới quan sau: Triết hoc, tôn giáo, thần thoại",
+    "options": [
+      "Tôn giáo - thần thoại - triết hoc Thần thoại - tôn giáo - triết hoc",
+      "Triết hoc - tôn giáo - thần thoại",
+      "Thần thoại - triết hoc - tôn giáo"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Triết hoc ra đời vào thời gian nào?",
+    "options": [
+      "Thiên niên kỷ II. TCN",
+      "Thế kỷ VIII - thế kỷ VI trước CN",
+      "Thế kỷ II sau CN"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Triết hoc ra đời sớm nhất ở đâu?",
+    "options": [
+      "Ấn Độ, Châu Phi, Nga",
+      "Ấn Độ, Trung Quốc, Hy Lạp",
+      "Ai Cập, Ấn Độ, Trung Quốc"
+    ],
+    "answerIdx": 1
+  },
+  {
+    "question": "Triết hoc nghiên cứu thế giới như thế nào?",
+    "options": [
+      "Như một chỉnh thể thống nhất",
+      "Như một đối tượng vật chất cu thể",
+      "Như một hệ đối tượng vật chất nhất đinh"
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Triết hoc là gì?",
+    "options": [
+      "Triết hoc là tri thức về thế giới tự nhiên",
+      "Triết hoc là tri thức về tự nhiên và xã hội",
+      "Triết hoc là tri thức lý luận của con người về thế giới",
+      "Triết hoc là hệ thống tri thức lý luận chung nhất của con người về thế giới và vi trí của con người trong thế giới."
+    ],
+    "answerIdx": 3
+  },
+  {
+    "question": "Triết hoc ra đời trong điều kiện nào?",
+    "options": [
+      "Xã hội phân chia thành giai cấp",
+      "Xuất hiện tầng lớp lao động trí óc",
+      "Tư duy của con người đạt trình độ tư duy khái quát cao và xuất hiện tầng lớp lao động trí óc có khả năng hệ thống tri thức của con người"
+    ],
+    "answerIdx": 2
+  },
+  {
+    "question": "Triết hoc ra đời từ đâu?",
+    "options": [
+      "Từ thực tiễn, do nhu cầu của thực tiễn",
+      "Từ sự suy tư của con người về bản thân mình",
+      "Từ sự sáng tạo của nhà tư tưởng",
+      "Từ sự vận động của ý muốn chủ quan của con người"
+    ],
+    "answerIdx": 0
+  },
+  {
+    "question": "Đối tượng của triết hoc có thay đổi trong lich sử không?",
+    "options": [
+      "Không",
+      "Có"
+    ],
+    "answerIdx": 1
+  }
+]
